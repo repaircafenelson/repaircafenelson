@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome to the Nelson Repair Café! Starting in 2025, we are a community-driven initiative based in Nelson, BC, dedicated to reducing waste, sharing skills, and fostering connections. Our mission is to help repair, reuse, and repurpose items that might otherwise end up in the landfill.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Whether it’s a broken appliance, torn clothing, or a cherished item in need of TLC, our team of skilled volunteers is here to help. Together, we can extend the life of your belongings, save resources, and learn a thing or two about fixing things along the way!
+
+Join us at our regular events to repair, connect, and make a positive impact in our community.
