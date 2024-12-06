@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# About the Nelson Repair Café  
 
 Welcome to the Nelson Repair Café, launching in 2025! We are a volunteer-driven initiative in Nelson, BC, focused on reducing waste, sharing knowledge, and fostering a sense of community through the power of repair.  
 
